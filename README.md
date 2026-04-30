@@ -237,3 +237,6 @@ MIT
 ---
 
 *Guide created by David at [Humanity and AI](https://youtube.com/@humanityandai) after successfully integrating Sea Breeze+ units into HomeKit, December 2024.*
+---
+
+<p align="center"><em>Æ</em></p>
